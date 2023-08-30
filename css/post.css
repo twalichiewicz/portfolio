@@ -15,6 +15,45 @@ body {
 	flex: 0.5;
 }
 
+.alert {
+	background: rgb(196, 223, 255);
+	border: solid 1px rgb(100, 173, 255);
+	border-radius: 6px;
+	display: block;
+	flex-direction: row;
+	margin-bottom: 12px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 12px;
+	max-width: 450px;
+	padding: 9px;
+}
+.alert-inner {
+	align-items: center;
+	display: flex;
+	flex-direction: row;
+}
+.alert-icon {
+	color: rgb(0, 120, 255);
+	flex: 1;
+	font-size: 3rem;
+	padding: 0 6px;
+	text-align: center;
+}
+.alert-copy {
+	display: flex;
+	flex: 9;
+	flex-direction: column;
+}
+.alert-copy-title {
+	color: black;
+	font-weight: bold;
+}
+.alert-copy-body {
+	color: rgba(0, 0, 0, 0.8);
+	font-size: 0.75rem;
+}
+
 .meta {
 	align-items: center;
 	flex: 2;
