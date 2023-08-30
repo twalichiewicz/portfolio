@@ -13,22 +13,18 @@
 		<% page.posts.each(function (post) { %>
 		<article class="post-list-item">
 			<a href="<%- url_for(post.path) %>">
-
 				<div class="cover-img-show-on-hover">
 					<div class="paddington">
-						<span class="overlay-post-title">
-							<%- post.title %>
-						</span>
+						<span class="overlay-post-title"> <%- post.title %> </span>
 						<% if (post.byline) { %>
 						<span class="overlay-post-byline"><%- post.byline %></span>
 						<% } %>
 					</div>
 				</div>
 
-
 				<div class="cover-img">
 					<img
-						src="<%= post.cover_image %>"
+						src="https://thomas.design/portfolio/<%= post.cover_image %>"
 						alt="<%= post.cover_image_alt %>"
 					/>
 				</div>
