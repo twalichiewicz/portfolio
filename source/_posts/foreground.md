@@ -6,8 +6,7 @@ categories:
   - [design]
   - [code]
   - [visuals]
-cover_image: /portfolio/2023/08/25/foreground/foreground-preview.jpg
-logo: /portfolio/2023/08/25/foreground/foreground-logo.png
+cover_image: /2023/08/25/foreground/foreground-preview.jpg
 fullscreen: true
 ---
 
