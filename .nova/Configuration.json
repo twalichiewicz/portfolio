@@ -1,0 +1,7 @@
+{
+	"editor.default_syntax": "html+ejs",
+	"workspace.color": 6,
+	"workspace.name": "blog",
+	"workspace.preview_server_allow_external": true,
+	"workspace.preview_server_port": 4000
+}
