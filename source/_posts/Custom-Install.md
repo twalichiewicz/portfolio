@@ -6,14 +6,14 @@ categories:
   - [research]
   - [design]
   - [code]
-cover_image: 2023/09/04/Custom-Install/customInstall-preview.png
+cover_image: 2023/08/31/Custom-Install/customInstall-preview.png
 fullscreen: true
 ---
 
 <div
 class="hero-header"
 style="
-	background-image: url(http://localhost:4000/portfolio/2023/08/30/Custom-Install/hero-image.png);
+	background-image: url(http://thomas.design/portfolio/2023/08/31/Custom-Install/hero-image.png);
 	background-position: center;
 	background-size: cover;
 	border: solid 1px rgba(0,0,0,0.3);
