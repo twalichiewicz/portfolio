@@ -9,7 +9,7 @@ fullscreen: true
 date: 2023-08-30 13:22:52
 ---
 
-<div class="alert">
+<div class="alert alert-default">
   <div class="alert-inner">
 	<div class="alert-icon">
 	  ✍️

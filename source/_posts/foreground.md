@@ -10,7 +10,7 @@ cover_image: 2023/08/26/foreground/foreground-preview.jpg
 fullscreen: true
 ---
 
-<div class="alert">
+<div class="alert alert-default">
   <div class="alert-inner">
     <div class="alert-icon">
       ✍️
