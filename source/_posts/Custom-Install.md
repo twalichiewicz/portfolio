@@ -13,7 +13,7 @@ fullscreen: true
 <div
 class="hero-header"
 style="
-	background-image: url(http://thomas.design/portfolio/2023/08/31/Custom-Install/hero-image.png);
+	background-image: url(https://thomas.design/portfolio/2023/08/31/Custom-Install/hero-image.png);
 	background-position: center;
 	background-size: cover;
 	border: solid 1px rgba(0,0,0,0.3);
