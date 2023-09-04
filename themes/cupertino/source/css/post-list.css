@@ -19,8 +19,8 @@
 	display: block;
 	flex-grow: 1;
 	margin: 9px;
-	max-height: 300px;
-	max-width: 300px;
+	max-height: 250px;
+	max-width: 250px;
 	position: relative;
 	overflow: hidden;
 	transition: all 200ms ease;
