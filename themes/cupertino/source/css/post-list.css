@@ -31,7 +31,7 @@
 	background: linear-gradient(
 		to bottom,
 		transparent 0%,
-		rgba(0, 0, 0, 0.6) 81%
+		rgba(0, 0, 0, 0.75) 81%
 	);
 	border-radius: 0 0 9px 9px;
 	bottom: 0;
@@ -58,7 +58,7 @@
 	font-weight: bold;
 }
 .post-list-item .cover-img-show-on-hover .overlay-post-byline {
-	color: rgba(255, 255, 255, 0.6);
+	color: rgba(255, 255, 255, 0.75);
 	font-size: 0.75rem;
 	font-weight: normal;
 	margin-top: 3px;
