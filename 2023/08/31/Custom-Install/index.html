@@ -151,6 +151,18 @@ style="
     </div>
   </div>
 </div>
+<div class="alert alert-default">
+  <div class="alert-inner">
+    <div class="alert-icon">
+      💻
+    </div>
+    <div class="alert-gutter"></div>
+    <div class="alert-copy">
+      <span class="alert-copy-title">Demo available</span>
+      <span class="alert-copy-body">If you have an Autodesk ID, you can find the latest version of this tool at <a target="_blank" rel="noopener" href="https://manage.autodesk.com/products/deployments">https://manage.autodesk.com/products/deployments</a></span>
+    </div>
+  </div>
+</div>
 
 <div class="table-of-contents">
     <div class="table-of-contents-inner">
@@ -193,7 +205,7 @@ style="
                 </ul>
             </li>
             <li>
-                <a href="#The-new-installer-experience">The new installer experience</a>
+                <a href="#Designing-a-platform">Designing a platform</a>
                 <ul>
                     <li>
                         <a href="#Web-versus-desktop">Web versus desktop</a>
@@ -217,9 +229,6 @@ style="
                     </li>
                     <li>
                         <a href="#Even-more-advanced-customization">Even more advanced customization</a>
-                    </li>
-                    <li>
-                        <a href="#Assignment-via-groups">Assignment via groups</a>
                     </li>
                 </ul>
             </li>
@@ -282,19 +291,6 @@ style="
 </tbody></table>
 <h3 id="Validating-design-decisions"><a href="#Validating-design-decisions" class="headerlink" title="Validating design decisions"></a>Validating design decisions</h3><p>One of the biggest concerns I had with this drastic of a shift was the potential impact it would have on the administrators at all of the different companies that rely on Autodesk software. Obviously getting the internal product teams to align was a challenge in of itself, but if the final product that we delivered was worse than what we already had we would have spent a lot of resources and reorganized a lot of historically “good enough” systems for no reason other than to change them.</p>
 <h4 id="Customer-feedback-council"><a href="#Customer-feedback-council" class="headerlink" title="Customer feedback council"></a>Customer feedback council</h4><p>From this need came the Autodesk Software Deployment Delta Team, a group of around 30 administrators from a variety of company sizes that were all experts in Autodesk product installations (CAL’s, as referred to earlier). Along with my research and product management collaborators, we would have a recurring monthly meeting with all of these customers to discuss what we were working on, and hold a workshop to gather feedback, concerns, and to pulse check on what were the top-of-mind issues these users were currently working through. I made a point in each subsequent meeting to reiterate what feedback I had heard in the previous month’s session, and described what steps or decisions had ben made as a result of that feedback not only to keep the members of the council engaged, but to give ourselves an opportunity to improve our own interpretation skills of what our customers were trying to communicate to us.</p>
-<h2 id="The-new-installer-experience"><a href="#The-new-installer-experience" class="headerlink" title="The new installer experience"></a>The new installer experience</h2><div class="alert alert-default">
-  <div class="alert-inner">
-    <div class="alert-icon">
-      💻
-    </div>
-    <div class="alert-gutter"></div>
-    <div class="alert-copy">
-      <span class="alert-copy-title">Demo available</span>
-      <span class="alert-copy-body">If you have an Autodesk ID, you can find the latest version of this tool at <a target="_blank" rel="noopener" href="https://manage.autodesk.com/products/deployments">https://manage.autodesk.com/products/deployments</a></span>
-    </div>
-  </div>
-</div>
-
 <h2 id="Beyond-release"><a href="#Beyond-release" class="headerlink" title="Beyond release"></a>Beyond release</h2><p>As anyone familiar with software development knows, there are always blue-sky features that aren’t able to make the timeline originally agreed upon. While the released version of Custom Install was still very much a complete project, I feel it would be selling it short to not give a sense of what the full vision was, and what may eventually still be developed.</p>
 <h3 id="Remote-updating-and-installation"><a href="#Remote-updating-and-installation" class="headerlink" title="Remote updating and installation"></a>Remote updating and installation</h3><p>While moving the tool to a web environment solved several of the shortcomings of the older desktop installer, one of the limitations of a web tool was that we lost our direct connection to seeing what is happening on any individual’s machine.</p>
 <p>The Autodesk Desktop Application (ADA) is another application that Autodesk offered to help individual end-users keep their Autodesk software up-to-date. The proposed integration to the Custom Install tool was to allow administrators to “publish” packages from the webtool, and specify which end-user’s machines the software should be installed on. At that point, all that the administrator would need to do is ensure all of the machines they’re responsible for have ADA installed and they would be able to remotely push software package installs to any machine, and have it self-report on its status, enable&#x2F;disable automatic updating of that software, and a variety of other features.</p>
