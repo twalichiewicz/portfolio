@@ -63,6 +63,18 @@ style="
 	</div>
   </div>
 </div>
+<div class="alert alert-default">
+  <div class="alert-inner">
+	<div class="alert-icon">
+	  💻
+	</div>
+	<div class="alert-gutter"></div>
+	<div class="alert-copy">
+	  <span class="alert-copy-title">Demo available</span>
+	  <span class="alert-copy-body">If you have an Autodesk ID, you can find the latest version of this tool at <a href="https://manage.autodesk.com/products/deployments">https://manage.autodesk.com/products/deployments</a></span>
+	</div>
+  </div>
+</div>
 
 <div class="table-of-contents">
 	<div class="table-of-contents-inner">
@@ -105,7 +117,7 @@ style="
 				</ul>
 			</li>
 			<li>
-				<a href="#The-new-installer-experience">The new installer experience</a>
+				<a href="#Designing-a-platform">Designing a platform</a>
 				<ul>
 					<li>
 						<a href="#Web-versus-desktop">Web versus desktop</a>
@@ -129,9 +141,6 @@ style="
 					</li>
 					<li>
 						<a href="#Even-more-advanced-customization">Even more advanced customization</a>
-					</li>
-					<li>
-						<a href="#Assignment-via-groups">Assignment via groups</a>
 					</li>
 				</ul>
 			</li>
@@ -214,21 +223,6 @@ One of the biggest concerns I had with this drastic of a shift was the potential
 #### Customer feedback council
 
 From this need came the Autodesk Software Deployment Delta Team, a group of around 30 administrators from a variety of company sizes that were all experts in Autodesk product installations (CAL's, as referred to earlier). Along with my research and product management collaborators, we would have a recurring monthly meeting with all of these customers to discuss what we were working on, and hold a workshop to gather feedback, concerns, and to pulse check on what were the top-of-mind issues these users were currently working through. I made a point in each subsequent meeting to reiterate what feedback I had heard in the previous month's session, and described what steps or decisions had ben made as a result of that feedback not only to keep the members of the council engaged, but to give ourselves an opportunity to improve our own interpretation skills of what our customers were trying to communicate to us.
-
-## The new installer experience
-
-<div class="alert alert-default">
-  <div class="alert-inner">
-	<div class="alert-icon">
-	  💻
-	</div>
-	<div class="alert-gutter"></div>
-	<div class="alert-copy">
-	  <span class="alert-copy-title">Demo available</span>
-	  <span class="alert-copy-body">If you have an Autodesk ID, you can find the latest version of this tool at <a href="https://manage.autodesk.com/products/deployments">https://manage.autodesk.com/products/deployments</a></span>
-	</div>
-  </div>
-</div>
 
 ## Beyond release
 
