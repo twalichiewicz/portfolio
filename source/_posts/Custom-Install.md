@@ -59,7 +59,7 @@ style="
 	<div class="alert-gutter"></div>
 	<div class="alert-copy">
 	  <span class="alert-copy-title">Post in-progress</span>
-	  <span class="alert-copy-body">I was the lead designer on redesigning the product installation experience at Autodesk. This article is about one part of that experience— the advanced install package generator.<br/><br/><b>Some fast facts:</b><ul><li>Lead the interaction design and research</li><li>Collaborated on the project planning, roadmapping, visual design, and frontend coding</li><li>Created and improved several user experience operational processes</li><li>Three months after launch >30,000 installation packages were created and >11,000 packages were modified </li><li>All success metrics for the project were met or exceeded</li></ul>As a sort of .</span>
+	  <span class="alert-copy-body">I was the lead designer on redesigning the product installation experience at Autodesk. This article is about one part of that experience— the advanced install package generator.<br/><br/><b>Some fast facts:</b><ul><li>Lead the interaction design and research</li><li>Collaborated on the project planning, roadmapping, visual design, and frontend coding</li><li>Created and improved several user experience operational processes</li><li>Three months after launch >30,000 installation packages were created and >11,000 packages were modified </li><li>All success metrics for the project were met or exceeded</li></ul>This post is in-progress, but I've posted a draft of for those that are interested.</span>
 	</div>
   </div>
 </div>
@@ -175,7 +175,7 @@ The methods by which one of these admins might customize their applications can 
 
 Historically, this was done individually for each application, leading to lots (thousands, in some cases) of versions of installers, with an individual installer for each application. And when a CAL was doing a clean install on a machine, they would need to daisy-chain all of those installers (and make sure they happened in the correct order, because, yes, that can cause issues too), and wait the 10's of hours it could take to complete a single machine's full suite installation.
 
-### Silioing
+### Siloing
 
 To add some more complexity to this problem, it's important to keep in mind how Autodesk has historically grown its products suites. Autodesk is well known for acquiring products and folding them into their own lineup, often maintaining the teams that worked on the product as-is, and simply incorporating platform specific Autodesk functionality (licensing, support, etc.) into the product.
 
@@ -232,7 +232,7 @@ As anyone familiar with software development knows, there are always blue-sky fe
 
 While moving the tool to a web environment solved several of the shortcomings of the older desktop installer, one of the limitations of a web tool was that we lost our direct connection to seeing what is happening on any individual's machine.
 
-The Autodesk Desktop Application (ADA) is another application that Autodesk offered to help individual end-users keep their Autodesk software up-to-date. The proposed integration to the Custom Install tool was to allow administrators to "publish" packages from the webtool, and specify which end-user's machines the software should be installed on. At that point, all that the administrator would need to do is ensure all of the machines they're responsible for have ADA installed and they would be able to remotely push software package installs to any machine, and have it self-report on its status, enable/disable automatic updating of that software, and a variety of other features.
+The Autodesk Desktop Application (ADA) is another application that Autodesk offered to help individual end-users keep their Autodesk software up-to-date. The proposed integration to the Custom Install tool was to allow administrators to "publish" packages from the web tool, and specify which end-user's machines the software should be installed on. At that point, all that the administrator would need to do is ensure all of the machines they're responsible for have ADA installed and they would be able to remotely push software package installs to any machine, and have it self-report on its status, enable/disable automatic updating of that software, and a variety of other features.
 
 <div class="alert alert-default">
   <div class="alert-inner">
@@ -242,7 +242,7 @@ The Autodesk Desktop Application (ADA) is another application that Autodesk offe
 	<div class="alert-gutter"></div>
 	<div class="alert-copy">
 	  <span class="alert-copy-title">Author's note</span>
-	  <span class="alert-copy-body">There is a separate write-up coming for the redseigned version of the Autodesk Desktop Application that I worked on following this project.</span>
+	  <span class="alert-copy-body">There is a separate write-up coming for the redesigned version of the Autodesk Desktop Application that I worked on following this project.</span>
 	</div>
   </div>
 </div>
