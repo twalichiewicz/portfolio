@@ -5,7 +5,7 @@ date: 2023-09-11 20:49:41
 categories:
   - [design]
   - [code]
-cover_image: 2023/09/11/Human-Interest-brand/humanInterestBrand-preview.png
+cover_image: 2023/09/12/Human-Interest-brand/humanInterestBrand-preview.png
 fullscreen: true
 ---
 
