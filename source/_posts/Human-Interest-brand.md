@@ -39,6 +39,13 @@ fullscreen: true
 ![](brand-backpacks.jpg)
 ![](brand-shirt.JPG)
 ![](brand-clothing.jpg)
+
+<p style="margin-top:-12px;margin-bottom: 30px;">
+	<span style="display:block;font-size: 11px;color: grey;">
+		The team wearing the newly designed team shirts.
+	</span>
+</p>
+
 ![](brand-officeDecor.JPG)
 
 <p style="margin-top:-12px;margin-bottom: 30px;">
