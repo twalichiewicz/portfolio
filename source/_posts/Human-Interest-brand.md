@@ -13,24 +13,24 @@ fullscreen: true
 
 ![](brand-LOGO.jpg)
 
-<p style="margin-top:-18px;margin-bottom: 30px;">
-	<span style="font-size: 11px;color: grey;">
+<p style="margin-top:-12px;margin-bottom: 30px;">
+	<span style="display:block;font-size: 11px;color: grey;">
 		The final version of the Human Interest logo and text treatment. The logo represents an unfolding map, in the way Human Interest provides a roadmap to a successful financial future. Hidden in the map's negative space are the letters "H" and "I".
 	</span>
 </p>
 
 ![](brand-booklet.jpeg)
 
-<p style="margin-top:-18px;margin-bottom: 30px;">
-	<span style="font-size: 11px;color: grey;">
+<p style="margin-top:-12px;margin-bottom: 30px;">
+	<span style="display:block;font-size: 11px;color: grey;">
 		A Human Interest brand booklet. This treatment also determined the style and tone of advertising and marketing materials for the new brand.
 	</span>
 </p>
 
 ![](brand-ICONS.jpg)
 
-<p style="margin-top:-18px;margin-bottom: 30px;">
-	<span style="font-size: 11px;color: grey;">
+<p style="margin-top:-12px;margin-bottom: 30px;">
+	<span style="display:block;font-size: 11px;color: grey;">
 		Part of the custom icon set created for the product.
 	</span>
 </p>
@@ -41,16 +41,16 @@ fullscreen: true
 ![](brand-clothing.jpg)
 ![](brand-officeDecor.JPG)
 
-<p style="margin-top:-18px;margin-bottom: 30px;">
-	<span style="font-size: 11px;color: grey;">
+<p style="margin-top:-12px;margin-bottom: 30px;">
+	<span style="display:block;font-size: 11px;color: grey;">
 		Conference rooms in the office were named after the most common cities that people retire to. Each individual letter was placed and aligned by myself.
 	</span>
 </p>
 
 ![](brand-booth.jpeg)
 
-<p style="margin-top:-18px;margin-bottom: 30px;">
-	<span style="font-size: 11px;color: grey;">
+<p style="margin-top:-12px;margin-bottom: 30px;">
+	<span style="display:block;font-size: 11px;color: grey;">
 		Some examples of the materials made for trade shows and conventions.
 	</span>
 </p>
