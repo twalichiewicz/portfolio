@@ -35,6 +35,15 @@ fullscreen: true
 	</span>
 </p>
 
+<p>
+	<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="100%" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FGVWz5qon5XDndfOPLg71u9%2FHuman-Interest-rebranded-website%3Ftype%3Ddesign%26node-id%3D0%253A1%26mode%3Ddesign%26t%3Djw8FnbnjBlCvDwRB-1" allowfullscreen></iframe>
+</p>
+<p style="margin-top:-12px;margin-bottom: 30px;">
+	<span style="display:block;font-size: 11px;color: grey;">
+		Some snapshots of the redesigned Human Interest website.
+	</span>
+</p>
+
 ![](brand-stickers.jpeg)
 ![](brand-backpacks.jpg)
 ![](brand-shirt.JPG)
