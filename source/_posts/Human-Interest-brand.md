@@ -9,7 +9,7 @@ cover_image: 2023/09/12/Human-Interest-brand/humanInterestBrand-preview.png
 fullscreen: true
 ---
 
-<p style="padding-bottom: 20vh;"><span style="font-size: 64px;line-height: 95%;">Ever wondered how much work it is to create a corporate identity, design guidelines, design component system, marketing and sales materials, and other required assets?<br/><br/><br/>Answer: a fucking lot.<br/><br/><br/>Yes, everything you see below <i>(and a ton of other things I need to find images of)</i> I did as a solo contributor within 6 months.</span></p>
+<p style="padding-bottom: 20vh;"><span style="font-size: 64px;line-height: 95%;font-weight:600;">Ever wondered how much work it is to create a corporate identity, design guidelines, design component system, marketing and sales materials, and other required assets?<br/><br/><br/>Answer: a fucking lot.<br/><br/><br/>Yes, everything you see below <i>(and a ton of other things I need to find images of)</i> I did as a solo contributor within 6 months.</span></p>
 
 ![](brand-LOGO.jpg)
 
