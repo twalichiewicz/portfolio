@@ -27,6 +27,14 @@ fullscreen: true
 	</span>
 </p>
 
+![](brand-redesignedAdminProduct.png)
+
+<p style="margin-top:-12px;margin-bottom: 30px;">
+	<span style="display:block;font-size: 11px;color: grey;">
+		Redesigned version of the main product offering, a 401(k) administration tool. <i>Not pictured: the end-user product, and internal operations tool.</i>
+	</span>
+</p>
+
 ![](brand-ICONS.jpg)
 
 <p style="margin-top:-12px;margin-bottom: 30px;">
