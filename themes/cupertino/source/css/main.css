@@ -34,24 +34,6 @@ a:visited {
 	margin: auto;
 }
 
-.section-title {
-	background: #fbfbfd;
-	border-radius: 3px;
-	color: var(--grey);
-	display: flex;
-	font-size: 12px;
-	font-weight: 800;
-	line-height: 1.125;
-	letter-spacing: 0.004em;
-	margin: 56px auto 48px auto;
-	padding: 3px;
-	position: sticky;
-	text-align: center;
-	text-transform: uppercase;
-	top: 6px;
-	width: fit-content;
-	z-index: 9999;
-}
 @media (prefers-color-scheme: dark) {
 	.section-title {
 		background: #101010;
