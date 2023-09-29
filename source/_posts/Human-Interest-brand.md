@@ -19,6 +19,19 @@ fullscreen: true
 	</span>
 </p>
 
+<div class="alert alert-default">
+  <div class="alert-inner">
+	<div class="alert-icon">
+	  😌
+	</div>
+	<div class="alert-gutter"></div>
+	<div class="alert-copy">
+	  <span class="alert-copy-title">Author's note</span>
+	  <span class="alert-copy-body">This redesign actually caught someone's attention and <a target="_blank"  href="https://www.underconsideration.com/brandnew/archives/new_name_and_logo_for_human_interest.php">it was a "Spotted" feature for Brand New in February 2018.</a></span>
+	</div>
+  </div>
+</div>
+
 ![](brand-booklet.jpeg)
 
 <p style="margin-top:-12px;margin-bottom: 30px;">
