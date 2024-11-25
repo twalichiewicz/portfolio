@@ -1,8 +1,7 @@
 ---
 title: Common Cents Lab 2016 Research Report
 byline: >
-  Complete overhaul of the advanced installation experience for Autodesk products.
-  A comprehensive summary of the behavioral science projects and experiments conducted by Common Cents Lab in 2016.
+  A comprehensive summary of the behavioral science projects and experiments conducted by Common Cents Lab in 2016
 date: 2016-01-01 00:00:00
 tags:
 cover_image: 2016/01/01/Common-Cents-Lab-2016-Research-Report/ccl-2016-report-preview.png
