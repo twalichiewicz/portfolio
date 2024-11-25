@@ -5,7 +5,7 @@ date: 2023-08-25 21:31:56
 categories:
   - [research]
   - [design]
-cover_image: 2023/08/26/propel/propel-preview.png
+cover_image: 2023/08/25/propel/propel-preview.png
 fullscreen: true
 ---
 

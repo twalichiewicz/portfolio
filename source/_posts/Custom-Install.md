@@ -6,7 +6,7 @@ categories:
   - [research]
   - [design]
   - [code]
-cover_image: 2023/08/31/Custom-Install/customInstall-preview.png
+cover_image: 2023/08/30/Custom-Install/customInstall-preview.png
 fullscreen: true
 ---
 
@@ -21,7 +21,7 @@ line-height: 100%;
 margin-bottom: 0;
 margin-top: 0;
 ">
-	Custom Install
+    Custom Install
 </h1>
 
 <br/>
@@ -50,7 +50,7 @@ style="
 <div class="alert alert-yellow">
   <div class="alert-inner">
 	<div class="alert-icon">
-	  <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="margin: auto; display: block;" viewBox="0 0 100 100" preserveAspectRatio="xMidYMid">
+	  <svg xmlns="http://www.w3.org/1999/xlink" style="margin: auto; display: block;" viewBox="0 0 100 100" preserveAspectRatio="xMidYMid">
 	  <path d="M10 50A40 40 0 0 0 90 50A40 42 0 0 1 10 50" fill="#0a0a0a" stroke="none">
 		<animateTransform attributeName="transform" type="rotate" dur="1s" repeatCount="indefinite" keyTimes="0;1" values="0 50 51;360 50 51"></animateTransform>
 	  </path>
@@ -59,7 +59,7 @@ style="
 	<div class="alert-gutter"></div>
 	<div class="alert-copy">
 	  <span class="alert-copy-title">Post in-progress</span>
-	  <span class="alert-copy-body">I was the lead designer on redesigning the product installation experience at Autodesk. This article is about one part of that experience— the advanced install package generator.<br/><br/><b>Some fast facts:</b><ul><li>Lead the interaction design and research</li><li>Collaborated on the project planning, roadmapping, visual design, and frontend coding</li><li>Created and improved several user experience operational processes</li><li>Three months after launch >30,000 installation packages were created and >11,000 packages were modified </li><li>All success metrics for the project were met or exceeded</li></ul>This post is in-progress, but I've posted a draft of for those that are interested.</span>
+	  <span class="alert-copy-body">I was the lead designer on redesigning the product installation experience at Autodesk. This article is about one part of that experience��� the advanced install package generator.<br/><br/><b>Some fast facts:</b><ul><li>Lead the interaction design and research</li><li>Collaborated on the project planning, roadmapping, visual design, and frontend coding</li><li>Created and improved several user experience operational processes</li><li>Three months after launch >30,000 installation packages were created and >11,000 packages were modified </li><li>All success metrics for the project were met or exceeded</li></ul>This post is in-progress, but I've posted a draft of for those that are interested.</span>
 	</div>
   </div>
 </div>
@@ -257,7 +257,7 @@ While we were able to account for the vast majority of customization, there woul
 <div class="alert alert-yellow">
   <div class="alert-inner">
 	<div class="alert-icon">
-	  <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="margin: auto; display: block;" viewBox="0 0 100 100" preserveAspectRatio="xMidYMid">
+	  <svg xmlns="http://www.w3.org/1999/xlink" style="margin: auto; display: block;" viewBox="0 0 100 100" preserveAspectRatio="xMidYMid">
 	  <path d="M10 50A40 40 0 0 0 90 50A40 42 0 0 1 10 50" fill="#0a0a0a" stroke="none">
 		<animateTransform attributeName="transform" type="rotate" dur="1s" repeatCount="indefinite" keyTimes="0;1" values="0 50 51;360 50 51"></animateTransform>
 	  </path>

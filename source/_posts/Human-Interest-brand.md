@@ -1,11 +1,11 @@
 ---
 title: Human Interest brand
 byline: Solo rebranding of a 401(k) tech startup
-date: 2023-09-11 20:49:41
+date: 2023-09-11 00:00:00
 categories:
   - [design]
   - [code]
-cover_image: 2023/09/12/Human-Interest-brand/humanInterestBrand-preview.png
+cover_image: 2023/09/11/Human-Interest-brand/humanInterestBrand-preview.png
 fullscreen: true
 ---
 
@@ -14,21 +14,21 @@ fullscreen: true
 ![](brand-LOGO.jpg)
 
 <p style="margin-top:-12px;margin-bottom: 30px;">
-	<span style="display:block;font-size: 11px;color: grey;">
-		The final version of the Human Interest logo and text treatment. The logo represents an unfolding map, in the way Human Interest provides a roadmap to a successful financial future. Hidden in the map's negative space are the letters "H" and "I".
-	</span>
+    <span style="display:block;font-size: 11px;color: grey;">
+        The final version of the Human Interest logo and text treatment. The logo represents an unfolding map, in the way Human Interest provides a roadmap to a successful financial future. Hidden in the map's negative space are the letters "H" and "I".
+    </span>
 </p>
 
 <div class="alert alert-default">
   <div class="alert-inner">
-	<div class="alert-icon">
-	  😌
-	</div>
-	<div class="alert-gutter"></div>
-	<div class="alert-copy">
-	  <span class="alert-copy-title">Author's note</span>
-	  <span class="alert-copy-body">This redesign actually caught someone's attention and <a target="_blank"  href="https://www.underconsideration.com/brandnew/archives/new_name_and_logo_for_human_interest.php">it was a "Spotted" feature for Brand New in February 2018.</a></span>
-	</div>
+    <div class="alert-icon">
+      😌
+    </div>
+    <div class="alert-gutter"></div>
+    <div class="alert-copy">
+      <span class="alert-copy-title">Author's note</span>
+      <span class="alert-copy-body">This redesign actually caught someone's attention and <a target="_blank"  href="https://www.underconsideration.com/brandnew/archives/new_name_and_logo_for_human_interest.php">it was a "Spotted" feature for Brand New in February 2018.</a></span>
+    </div>
   </div>
 </div>
 

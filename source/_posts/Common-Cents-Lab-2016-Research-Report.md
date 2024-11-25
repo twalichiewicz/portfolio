@@ -5,7 +5,7 @@ byline: >
   A comprehensive summary of the behavioral science projects and experiments conducted by Common Cents Lab in 2016.
 date: 2016-01-01 00:00:00
 tags:
-cover_image: /images/ccl-2016-report-preview.png
+cover_image: 2016/01/01/ccl-2016-report-preview.png
 fullscreen: true
 ---
 
