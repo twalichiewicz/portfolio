@@ -6,7 +6,7 @@ categories:
   - [research]
   - [design]
   - [code]
-cover_image: 2023/08/30/Custom-Install/customInstall-preview.png
+cover_image: 2023/08/31/Custom-Install/customInstall-preview.png
 fullscreen: true
 ---
 
