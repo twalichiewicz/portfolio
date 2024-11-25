@@ -2,7 +2,7 @@
 title: Common Cents Lab 2016 Research Report
 date: 2016-01-01 00:00:00
 tags:
-cover_image: ccl-2016-report-preview.png
+cover_image: 2016/01/01/ccl-2016-report-preview.png
 fullscreen: true
 ---
 
