@@ -22,7 +22,7 @@
 				</div>
 				<div class="cover-img">
 					<img
-						src="https://thomas.design/portfolio/<%= post.cover_image %>"
+						src="<%- url_for(post.cover_image) %>"
 						alt="<%= post.cover_image_alt %>"
 					/>
 				</div>
@@ -30,5 +30,4 @@
 		</article>
 		<% }) %>
 	</div>
-	<%- partial('_partial/paginator') %>
 </div>
