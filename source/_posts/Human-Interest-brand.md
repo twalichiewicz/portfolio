@@ -1,11 +1,11 @@
 ---
 title: Human Interest brand
 byline: Solo rebranding of a 401(k) tech startup
-date: 2023-09-11 00:00:00
+date: 2017-09-11 00:00:00
 categories:
   - [design]
   - [code]
-cover_image: 2023/09/11/Human-Interest-brand/humanInterestBrand-preview.png
+cover_image: 2017/09/11/Human-Interest-brand/humanInterestBrand-preview.png
 fullscreen: true
 ---
 

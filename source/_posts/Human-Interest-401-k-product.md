@@ -4,9 +4,9 @@ byline: A simple yet robust 401(k) administration tool for small to medium sized
 categories:
   - [content]
   - [visuals]
-cover_image: 2023/08/30/Human-Interest-401-k-product/cutaway-preview.jpg
+cover_image: 2017/08/30/Human-Interest-401-k-product/cutaway-preview.jpg
 fullscreen: true
-date: 2023-08-30 13:22:52
+date: 2017-08-30 13:22:52
 ---
 
 <div class="alert alert-default">

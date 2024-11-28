@@ -1,12 +1,12 @@
 ---
 title: foreground
 byline: Bespoke design system with unified color system, typography, iconography, components, and UX patterns
-date: 2024-04-05 00:01:02
+date: 2018-04-05 00:01:02
 categories:
   - [design]
   - [code]
   - [visuals]
-cover_image: 2024/04/05/foreground/foreground-preview.jpg
+cover_image: 2018/04/05/foreground/foreground-preview.jpg
 fullscreen: true
 ---
 
