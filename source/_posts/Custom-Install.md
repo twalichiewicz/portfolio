@@ -1,12 +1,12 @@
 ---
 title: Custom Install
 byline: Complete overhaul of the advanced installation experience for Autodesk products
-date: 2023-08-30 20:52:01
+date: 2019-08-30 20:52:01
 categories:
   - [research]
   - [design]
   - [code]
-cover_image: 2023/08/31/Custom-Install/customInstall-preview.png
+cover_image: 2019/08/31/Custom-Install/customInstall-preview.png
 fullscreen: true
 ---
 
